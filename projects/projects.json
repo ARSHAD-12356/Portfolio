@@ -1,63 +1,63 @@
 [
   {
     "name": "ArshXHotel",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
+    "desc": "I built a fully responsive Hotel Website using HTML, CSS, JavaScript, and Bootstrap 5.The site features a clean UI, smooth navigation, and friendly design.",
     "image": "HOTEL",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://arshxhotel.vercel.app/",
+      "code": "https://github.com/ARSHAD-12356/Responsive-Hotel-Website"
     }
   },
   {
     "name": "ArshXRestro",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
+    "desc": "I created a fully responsive Restaurant Website using React.js,dynamic UI and reusable components.The project features an interactive food menu.",
     "image": "RESTRO",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://arshxrestro.vercel.app/",
+      "code": "https://github.com/ARSHAD-12356/Resturant-App"
     }
   },
   {
     "name": "Food Recipe App",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
+    "desc": "I developed a dynamic Food Recipe App using React.js,real-time search and recipe filtering.Users can explore a wide variety of dishes, view ingredients.",
     "image": "FOOD",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://myfoodrecepie.vercel.app/",
+      "code": "https://github.com/ARSHAD-12356/Food-Recipe-App"
     }
   },
   {
     "name": "TODO APP",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis..",
+    "desc": "I built a responsive To-Do App using React.js,help users manage daily tasks efficiently.The app allows users to add, delete, and mark tasks as completed.",
     "image": "TODO",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://arshxtodo.vercel.app/",
+      "code": "https://github.com/ARSHAD-12356/TodoApp"
     }
   },
   
   {
     "name": "E-Commerce",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
+    "desc": "I developed a stylish and responsive E-commerce App using HTML, CSS, and JavaScript, focusing on modern UI and smooth user experience..",
     "image": "E-COMMERCE",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://lovemart.netlify.app/",
+      "code": "https://app.netlify.com/sites/lovemart/deploys/67d5ca6607d3916c1d51c71a"
     }
   },
   {
     "name": "ArshX Ai Assistant",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis. Magni, iste! Perferendis laborum reprehenderit dolorum totam.",
+    "desc": "I build a web-based AI Virtual Assistant using HTML, CSS, and JavaScript, designed to respond to user queries through a clean voice-based assistant",
     "image": "AIASSISTANT",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://arshxaiassistant.netlify.app/",
+      "code": "https://app.netlify.com/sites/arshxaiassistant/deploys/679e7044e005b64b246759a1"
     }
   }
 ]
